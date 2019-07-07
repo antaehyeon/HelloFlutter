@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/hyeon/flutter
-FLUTTER_APPLICATION_PATH=/Users/hyeon/hello_flutter
-FLUTTER_TARGET=/Users/hyeon/hello_flutter/lib/main.dart
+FLUTTER_APPLICATION_PATH=/Users/hyeon/HelloFlutter
+FLUTTER_TARGET=/Users/hyeon/HelloFlutter/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Users/hyeon/flutter/bin/cache/artifacts/engine/ios
